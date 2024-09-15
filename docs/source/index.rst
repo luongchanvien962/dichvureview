@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Dịch vụ review - nền tảng chuyên cung cấp thông tin đánh giá đa dạng
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Dịch vụ review <https://dichvureview.com/>`_ là nền tảng chuyên cung cấp thông tin đánh giá đa dạng, khách quan và chính xác. Giúp người dùng dễ dàng nắm bắt thông tin doanh nghiệp, thông tin liên hệ nhằm đưa ra các lựa chọn nhanh chóng và hiệu quả nhất. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 76 Lê Lai, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam
 
-   This project is under active development.
+Hotline: (+84)916001661
 
-Contents
---------
+Email: dichvureview@support.com
 
-.. toctree::
+Website: https://dichvureview.com/
 
-   usage
-   api
+#dichvureview #dichvudanhgia #toplist #topdanhsach #tophangdau
